@@ -38,7 +38,7 @@ workflowSchedule:
   
 commitMessages:
     commitAuthorName: "stdlib-bot"
-    commitAuthorEmail: "unoreply@stdlib.io"
+    commitAuthorEmail: "noreply@stdlib.io"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
