@@ -42,3 +42,7 @@ commitMessages:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+skipTopicsUpdate: true # Skip updating the topics of the repository
+skipHomepageUpdate: true # Skip updating the homepage of the repository
+skipDescriptionUpdate: true # Skip updating the description of the repository
