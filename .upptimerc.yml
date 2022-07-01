@@ -28,17 +28,17 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
-  
+  graphs: "0 0 * * *" # Run the workflow every day at midnight
+  responseTime: "0 23 * * *" # Run every day at 23:00
+  staticSite: "0 1 * * *" # Generate the static site every day at 01:00
+  summary: "0 0 * * *" # Generate the summary every day at midnight
+  updateTemplate: "0 0 * * *" # Update the template every day at midnight
+  updates: "0 3 * * *" # Update the status every day at 03:00
+  uptime: "* */2 * * *" # Update the uptime every 2 hours
+
 commitMessages:
-    commitAuthorName: "stdlib-bot"
-    commitAuthorEmail: "noreply@stdlib.io"
+  commitAuthorName: "stdlib-bot" # The name of the bot that commits the changes
+  commitAuthorEmail: "noreply@stdlib.io" # This is the email address that the bot will use to commit changes
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
