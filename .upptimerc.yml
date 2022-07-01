@@ -35,6 +35,10 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
+  
+commitMessages:
+    commitAuthorName: "stdlib-bot"
+    commitAuthorEmail: "unoreply@stdlib.io"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
