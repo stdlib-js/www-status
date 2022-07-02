@@ -4,18 +4,22 @@ repo: www-status # The name of this repository
 
 sites:
   - name: Website
-    url: https://stdlib.io/
+    url: https://stdlib.io
   - name: Documentation
     url: https://stdlib.io/docs/api/status
-  - name: GitHub Event Server
+  - name: Development Blog
+    url: https://blog.stdlib.io
+  - name: GitHub Reporting
     url: https://stdlib.io/gh/status
+  - name: Status Page
+    url: https://status.stdlib.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.stdlib.io
   # baseUrl: /your-repo-name
-  name: stdlib status
+  name: ""
   logoUrl: https://raw.githubusercontent.com/stdlib-js/www/master/public/img/logo.svg
   themeUrl: https://cdn.statically.io/gh/stdlib-js/www-status/master/assets/stdlib-theme.css
   favicon: https://stdlib.io/favicon-32x32.png
