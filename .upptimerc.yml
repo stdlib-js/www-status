@@ -24,7 +24,7 @@ status-website:
   themeUrl: https://cdn.statically.io/gh/stdlib-js/www-status/master/assets/stdlib-theme.css
   favicon: https://stdlib.io/favicon-32x32.png
   introTitle: "**stdlib** status and uptime page"
-  introMessage: Current and historical uptime and status of stdlib infrastructure
+  introMessage: Current and historical uptime and status of stdlib infrastructure.
   navbar:
     - title: Status
       href: /
