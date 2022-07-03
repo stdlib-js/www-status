@@ -31,7 +31,7 @@ status-website:
     - title: Website
       href: https://stdlib.io
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/stdlib-js/stdlib
 
 workflowSchedule:
   graphs: "0 0 * * *" # Run the workflow every day at midnight
