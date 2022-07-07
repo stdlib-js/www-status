@@ -56,3 +56,7 @@ assignees:
 skipTopicsUpdate: true # Skip updating the topics of the repository
 skipHomepageUpdate: true # Skip updating the homepage of the repository
 skipDescriptionUpdate: true # Skip updating the description of the repository
+
+i18n:
+  footer: [Donate](https://www.patreon.com/athan) / [Docs](https://stdlib.io/docs/api/latest) / [Chat](https://gitter.im/stdlib-js/stdlib) / [Twitter](https://twitter.com/stdlibjs) / [Contribute](https://github.com/stdlib-js/stdlib) / [Status](https://status.stdlib.io/)
+
