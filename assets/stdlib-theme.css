@@ -24,3 +24,15 @@
 	--graph-opacity: 1;
 	--graph-filter: hue-rotate(45deg);
 }
+
+footer {
+	font-size: 0.85em;
+}
+
+footer a {
+	text-decoration: none;
+}
+
+footer a:active, a:hover {
+    text-decoration: underline;
+}
