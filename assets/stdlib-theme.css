@@ -25,7 +25,7 @@
 	--graph-filter: hue-rotate(45deg);
 }
 
-a > div {
+nav a.logo div {
 	display: none;
 }
 
