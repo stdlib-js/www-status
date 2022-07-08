@@ -25,6 +25,10 @@
 	--graph-filter: hue-rotate(45deg);
 }
 
+a > div {
+	display: none;
+}
+
 footer {
 	font-size: 0.85em;
 }
