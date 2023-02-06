@@ -4,10 +4,10 @@
     "url": "https://stdlib.io",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 271,
@@ -16,6 +16,7 @@
     "timeMonth": 306,
     "timeYear": 271,
     "dailyMinutesDown": {
+      "2023-02-06": 1,
       "2023-01-03": 10,
       "2022-12-31": 79
     }
@@ -25,10 +26,10 @@
     "url": "https://stdlib.io/docs/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 42,
@@ -37,6 +38,7 @@
     "timeMonth": 49,
     "timeYear": 42,
     "dailyMinutesDown": {
+      "2023-02-06": 1,
       "2022-12-31": 78
     }
   },
@@ -45,9 +47,9 @@
     "url": "https://blog.stdlib.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.stdlib.io.ico",
     "slug": "development-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -57,6 +59,7 @@
     "timeMonth": 379,
     "timeYear": 363,
     "dailyMinutesDown": {
+      "2023-02-06": 0,
       "2022-12-31": 78
     }
   },
@@ -65,9 +68,9 @@
     "url": "https://stdlib.io/gh/status",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "git-hub-reporting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -77,6 +80,7 @@
     "timeMonth": 43,
     "timeYear": 38,
     "dailyMinutesDown": {
+      "2023-02-06": 0,
       "2022-12-31": 77
     }
   },
