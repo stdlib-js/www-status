@@ -4,10 +4,10 @@
     "url": "https://stdlib.io",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 273,
@@ -16,6 +16,7 @@
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2023-04-27": 1,
       "2023-02-06": 62,
       "2023-01-03": 10,
       "2022-12-31": 79
@@ -26,10 +27,10 @@
     "url": "https://stdlib.io/docs/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 41,
@@ -38,6 +39,7 @@
     "timeMonth": 32,
     "timeYear": 41,
     "dailyMinutesDown": {
+      "2023-04-27": 1,
       "2023-02-06": 62,
       "2022-12-31": 78
     }
@@ -47,9 +49,9 @@
     "url": "https://blog.stdlib.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.stdlib.io.ico",
     "slug": "development-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -59,6 +61,7 @@
     "timeMonth": 338,
     "timeYear": 352,
     "dailyMinutesDown": {
+      "2023-04-27": 0,
       "2023-02-06": 61,
       "2022-12-31": 78
     }
@@ -68,9 +71,9 @@
     "url": "https://stdlib.io/gh/status",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "git-hub-reporting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -80,6 +83,7 @@
     "timeMonth": 28,
     "timeYear": 37,
     "dailyMinutesDown": {
+      "2023-04-27": 0,
       "2023-02-06": 61,
       "2022-12-31": 77
     }
