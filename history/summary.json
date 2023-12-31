@@ -4,10 +4,10 @@
     "url": "https://stdlib.io",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 289,
@@ -16,6 +16,7 @@
     "timeMonth": 297,
     "timeYear": 297,
     "dailyMinutesDown": {
+      "2023-12-31": 1,
       "2023-08-24": 72,
       "2023-02-06": 62,
       "2023-01-03": 10
@@ -26,10 +27,10 @@
     "url": "https://stdlib.io/docs/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 40,
@@ -38,6 +39,7 @@
     "timeMonth": 36,
     "timeYear": 41,
     "dailyMinutesDown": {
+      "2023-12-31": 1,
       "2023-02-06": 62
     }
   },
@@ -46,10 +48,10 @@
     "url": "https://blog.stdlib.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.stdlib.io.ico",
     "slug": "development-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 348,
@@ -58,6 +60,7 @@
     "timeMonth": 355,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2023-12-31": 1,
       "2023-02-06": 61
     }
   },
@@ -66,9 +69,9 @@
     "url": "https://stdlib.io/gh/status",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "git-hub-reporting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -78,6 +81,7 @@
     "timeMonth": 31,
     "timeYear": 36,
     "dailyMinutesDown": {
+      "2023-12-31": 0,
       "2023-02-06": 61
     }
   },
@@ -86,9 +90,9 @@
     "url": "https://status.stdlib.io",
     "icon": "https://icons.duckduckgo.com/ip3/status.stdlib.io.ico",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -97,6 +101,8 @@
     "timeWeek": 180,
     "timeMonth": 177,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-31": 0
+    }
   }
 ]
