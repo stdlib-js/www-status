@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 340,
-    "timeDay": 287,
-    "timeWeek": 333,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "timeDay": 267,
+    "timeWeek": 311,
+    "timeMonth": 348,
+    "timeYear": 356,
     "dailyMinutesDown": {
       "2023-12-31": 77
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 36,
-    "timeDay": 26,
-    "timeWeek": 43,
-    "timeMonth": 36,
+    "timeDay": 15,
+    "timeWeek": 34,
+    "timeMonth": 34,
     "timeYear": 36,
     "dailyMinutesDown": {
       "2023-12-31": 77
@@ -46,15 +46,15 @@
     "slug": "development-blog",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "76.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.70%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.89%",
     "time": 407,
-    "timeDay": 431,
-    "timeWeek": 456,
-    "timeMonth": 468,
-    "timeYear": 432,
+    "timeDay": 386,
+    "timeWeek": 422,
+    "timeMonth": 459,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2024-12-18": 332,
       "2024-11-21": 29,
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 32,
-    "timeDay": 24,
-    "timeWeek": 42,
-    "timeMonth": 33,
+    "timeDay": 14,
+    "timeWeek": 33,
+    "timeMonth": 31,
     "timeYear": 32,
     "dailyMinutesDown": {
       "2023-12-31": 76
@@ -94,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 337,
-    "timeWeek": 238,
-    "timeMonth": 244,
+    "timeDay": 248,
+    "timeWeek": 254,
+    "timeMonth": 245,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2023-12-31": 76
