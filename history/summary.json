@@ -4,10 +4,10 @@
     "url": "https://stdlib.io",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 366,
@@ -16,6 +16,7 @@
     "timeMonth": 604,
     "timeYear": 397,
     "dailyMinutesDown": {
+      "2025-07-27": 1,
       "2024-12-31": 86
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://stdlib.io/docs/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 34,
@@ -36,6 +37,7 @@
     "timeMonth": 32,
     "timeYear": 33,
     "dailyMinutesDown": {
+      "2025-07-27": 1,
       "2024-12-31": 86
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://blog.stdlib.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.stdlib.io.ico",
     "slug": "development-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -56,6 +58,7 @@
     "timeMonth": 618,
     "timeYear": 540,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2024-12-31": 86,
       "2024-12-18": 332,
       "2024-11-21": 29
@@ -66,9 +69,9 @@
     "url": "https://stdlib.io/gh/status",
     "icon": "https://icons.duckduckgo.com/ip3/stdlib.io.ico",
     "slug": "git-hub-reporting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -78,6 +81,7 @@
     "timeMonth": 30,
     "timeYear": 32,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2024-12-31": 86
     }
   },
