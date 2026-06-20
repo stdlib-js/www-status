@@ -11,6 +11,8 @@ sites:
     url: https://blog.stdlib.io
   - name: GitHub Reporting
     url: https://stdlib.io/gh/status
+  - name: Analytics
+    url: https://analytics.stdlib.io
   - name: Status Page
     url: https://status.stdlib.io
 
@@ -58,5 +60,5 @@ skipHomepageUpdate: true # Skip updating the homepage of the repository
 skipDescriptionUpdate: true # Skip updating the description of the repository
 
 i18n:
-  footer: "[Sponsor](https://opencollective.com/stdlib) / [Docs](https://stdlib.io/docs/api/latest) / [Chat](https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im) / [Twitter](https://twitter.com/stdlibjs) / [Contribute](https://github.com/stdlib-js/stdlib) / [Status](https://status.stdlib.io/)"
+  footer: "[Sponsor](https://opencollective.com/stdlib) / [Docs](https://stdlib.io/docs/api/latest) / [Chat](https://stdlib.zulipchat.com) / [Bluesky](https://bsky.app/profile/stdlib.io) / [Contribute](https://github.com/stdlib-js/stdlib) / [Status](https://status.stdlib.io/)"
 
