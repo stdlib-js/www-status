@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 414,
-    "timeDay": 369,
-    "timeWeek": 378,
-    "timeMonth": 395,
-    "timeYear": 405,
+    "timeDay": 518,
+    "timeWeek": 427,
+    "timeMonth": 404,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2025-12-31": 106
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 54,
-    "timeDay": 207,
-    "timeWeek": 144,
-    "timeMonth": 122,
-    "timeYear": 62,
+    "time": 55,
+    "timeDay": 208,
+    "timeWeek": 170,
+    "timeMonth": 128,
+    "timeYear": 63,
     "dailyMinutesDown": {
       "2025-12-31": 106
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 542,
-    "timeDay": 668,
-    "timeWeek": 564,
-    "timeMonth": 514,
-    "timeYear": 535,
+    "timeDay": 692,
+    "timeWeek": 625,
+    "timeMonth": 515,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2025-12-31": 106
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 53,
-    "timeDay": 209,
-    "timeWeek": 143,
-    "timeMonth": 121,
-    "timeYear": 61,
+    "time": 54,
+    "timeDay": 203,
+    "timeWeek": 168,
+    "timeMonth": 127,
+    "timeYear": 62,
     "dailyMinutesDown": {
       "2025-12-31": 105
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 786,
-    "timeDay": 699,
-    "timeWeek": 1329,
-    "timeMonth": 715,
-    "timeYear": 786,
+    "time": 787,
+    "timeDay": 848,
+    "timeWeek": 1426,
+    "timeMonth": 731,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   },
   {
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 277,
-    "timeDay": 250,
-    "timeWeek": 219,
-    "timeMonth": 187,
+    "timeDay": 263,
+    "timeWeek": 248,
+    "timeMonth": 189,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2025-12-31": 105
