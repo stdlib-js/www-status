@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 414,
-    "timeDay": 94,
-    "timeWeek": 225,
-    "timeMonth": 386,
-    "timeYear": 412,
+    "timeDay": 416,
+    "timeWeek": 276,
+    "timeMonth": 392,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2025-12-31": 106
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 69,
-    "timeDay": 39,
-    "timeWeek": 111,
-    "timeMonth": 114,
+    "time": 70,
+    "timeDay": 288,
+    "timeWeek": 149,
+    "timeMonth": 123,
     "timeYear": 81,
     "dailyMinutesDown": {
       "2025-12-31": 106
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 552,
-    "timeDay": 290,
-    "timeWeek": 505,
-    "timeMonth": 481,
-    "timeYear": 532,
+    "timeDay": 850,
+    "timeWeek": 589,
+    "timeMonth": 499,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2025-12-31": 106
     }
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 68,
-    "timeDay": 37,
-    "timeWeek": 108,
-    "timeMonth": 113,
+    "time": 69,
+    "timeDay": 190,
+    "timeWeek": 132,
+    "timeMonth": 119,
     "timeYear": 80,
     "dailyMinutesDown": {
       "2025-12-31": 105
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 311,
-    "timeWeek": 543,
-    "timeMonth": 627,
-    "timeYear": 732,
+    "time": 733,
+    "timeDay": 789,
+    "timeWeek": 619,
+    "timeMonth": 641,
+    "timeYear": 733,
     "dailyMinutesDown": {}
   },
   {
@@ -108,10 +108,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 284,
-    "timeDay": 160,
-    "timeWeek": 181,
-    "timeMonth": 250,
+    "time": 283,
+    "timeDay": 212,
+    "timeWeek": 193,
+    "timeMonth": 248,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-12-31": 105
